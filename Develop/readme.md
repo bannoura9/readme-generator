@@ -1,8 +1,8 @@
 
-  # Weather dashboard
+  # Reanme Genrator
 
   ## Short Description
-  ### Read me genrator let users to create readme files by answering few questions
+  ### This readme genrator app let users create thier readme file on the go.
   ## Table of Contents:
 - [Installation](#Installation)
 - [Usage](#Usage)
@@ -15,10 +15,10 @@
 
 ## Installation
 To install necessary dependencies run the following command:
-  npm 
+  npm axios
 ## Test:
   To run tests, run the following command:
-  npm test
+  N/A
 
 ## Usage:
   N/A
